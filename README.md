@@ -2,7 +2,7 @@
 A Learning project, developing a C++ Windows' Application with a **real-time** GUI
 
 ## Description
-As with most programmers, developing a calculator is a useful way to learn a language.
+As for most new programmers, developing a calculator is a useful way to learn a language.
 I've worked with C++ as my first language awhile ago and decided to brush off the dust as well as challenge myself, as at the time I was also working on a project in Unreal Engine 5.
 
 ### Notes
