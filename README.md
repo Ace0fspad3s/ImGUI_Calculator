@@ -1,5 +1,5 @@
 # ImGUI_Calculator
-A Learning project, developing a C++ Windows' Application with a **real-time** GUI
+A Learning project, developing a C++ Windows' Application with a **real-time** GUI via DirectX3D
 
 ## Description
 As for most new programmers, developing a calculator is a useful way to learn a language.
